@@ -1,1 +1,10 @@
+# Site settings
+title: Great New Blog Title
+author:
+  name: Chavdar Kirilov
+  email: kirilovarch@gmail.com
+description: "Great site about Jekyll on GH-Pages."
 
+# Build settings
+markfdown: kramdown
+remote_theme: jekyll/minima
